@@ -708,7 +708,7 @@
         </div>
 
          <div class="form">
-            <h4 style="margin: 0 auto 20px;width: 280px;">QQ招新群：654969032</h4>
+            <h4 style="margin: 0 auto 20px;width: 280px;">QQ招新群：2905222426</h4>
           <div id="sendmessage">报名成功！</div>
           <div id="errormessage"></div>
           <form action="" method="post" role="form" class="contactForm" style="" >
